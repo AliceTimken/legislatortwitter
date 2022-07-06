@@ -1,6 +1,8 @@
-## theunitedstates.io
+## legislatortwitter
 
-A [simple homepage](https://theunitedstates.io) for this organization.
+A [simple homepage](https://alicetimken.github.io/legislatortwitter/) for this project.
+
+Adapted from the [@unitedstates](https://theunitedstates.io/) project, adapted from [dccode.org](http://dccode.org/).
 
 ## Public domain
 
